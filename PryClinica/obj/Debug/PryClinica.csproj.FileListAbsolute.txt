@@ -1,0 +1,27 @@
+c:\users\ac\documents\visual studio 2015\Projects\PryClinica\PryClinica\bin\Debug\PryClinica.exe.config
+c:\users\ac\documents\visual studio 2015\Projects\PryClinica\PryClinica\bin\Debug\PryClinica.exe
+c:\users\ac\documents\visual studio 2015\Projects\PryClinica\PryClinica\bin\Debug\PryClinica.pdb
+c:\users\ac\documents\visual studio 2015\Projects\PryClinica\PryClinica\obj\Debug\PryClinica.csprojResolveAssemblyReference.cache
+c:\users\ac\documents\visual studio 2015\Projects\PryClinica\PryClinica\obj\Debug\PryClinica.Form1.resources
+c:\users\ac\documents\visual studio 2015\Projects\PryClinica\PryClinica\obj\Debug\PryClinica.Properties.Resources.resources
+c:\users\ac\documents\visual studio 2015\Projects\PryClinica\PryClinica\obj\Debug\PryClinica.csproj.GenerateResource.Cache
+c:\users\ac\documents\visual studio 2015\Projects\PryClinica\PryClinica\obj\Debug\PryClinica.exe
+c:\users\ac\documents\visual studio 2015\Projects\PryClinica\PryClinica\obj\Debug\PryClinica.pdb
+C:\Users\AC\Documents\Visual Studio 2015\Projects\PryClinica\PryClinica\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Daniel\Desktop\PryClinica\bin\Debug\PryClinica.exe.config
+C:\Users\Daniel\Desktop\PryClinica\bin\Debug\PryClinica.exe
+C:\Users\Daniel\Desktop\PryClinica\bin\Debug\PryClinica.pdb
+C:\Users\Daniel\Desktop\PryClinica\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.interfaz.clinica.formEliminarCL.resources
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.Form1.resources
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.formInsertClinica.resources
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.interfaz.formActualizarCL.resources
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.Properties.Resources.resources
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.exe
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.pdb
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.interfaz.paciente.formInsertPAC.resources
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.interfaz.paciente.formActualizarPAC.resources
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.interfaz.paciente.formEliminarPAC.resources
+C:\Users\Daniel\Desktop\PryClinica\obj\Debug\PryClinica.interfaz.ciudad.formRegistrarCiudad.resources
